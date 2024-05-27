@@ -9,19 +9,19 @@
 
 ## Versão validada
 
-Check se está usando o Node.js LTS (neste momento é o 18)
+Check se está usando o Node.js LTS (neste momento é a 20)
 
 ```shell
 node -v
-# v18.17.0
+# v20.13.1
 ```
 
 ## Abra  pasta do treinamento
 
-Na pasta onde você guarda todos os projetos do treinamento, vamos supor que vá chama-lo de `treinamento-metodotajs-erickwendel`
+Entre na pasta onde estão todos os projetos do treinamento:
 
 ```shell
-cd treinamento-metodotajs-erickwendel
+cd metodo-tajs
 ```
 
 e então Restaure os pacotes:
@@ -48,7 +48,7 @@ A pasta [.vscode](./../.vscode) está localizada na raiz dos projetos assim não
 
 ### Abra  pasta do treinamento no VSCode
 
-Supondo que você está em `treinamento-metodotajs-erickwendel/aula01-setup-jest` e já restaurou os pacotes seguindo os passos anteriores execute:
+Supondo que você está em `metodo-tajs/aula01-setup-jest` e já restaurou os pacotes seguindo os passos anteriores execute:
 ```shell
 code ../
 # para abrir a pasta que contem todos os projetos
